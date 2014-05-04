@@ -23,7 +23,7 @@
   "homepage": "https://github.com/smikes/inchi-server",
   "dependencies": {
     "express": "^4.1.0",
-    "inchi": "^1.0.0"
+    "inchi": "^1.0.2"
   },
   "devDependencies": {
     "istanbul": "^0.2.7",
